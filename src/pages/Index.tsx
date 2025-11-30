@@ -72,8 +72,8 @@ const Index = () => {
         
         <div className="container mx-auto px-4 py-12">
           <Tabs value={activeTab} onValueChange={setActiveTab} className="w-full">
-            <div className="overflow-x-auto mb-8">
-              <TabsList className="inline-flex w-full min-w-max justify-start lg:justify-center">
+            <div className="mb-8 flex justify-center">
+              <TabsList className="flex flex-wrap justify-center max-w-6xl gap-1">
                 <TabsTrigger value="overview" className="flex items-center gap-2 whitespace-nowrap">
                   <MapPin className="w-4 h-4" />
                   Overview
