@@ -27,6 +27,11 @@ This system develops a map guidance platform utilizing **Kruskal's algorithm** t
 - Framer Motion (Animations)
 - Recharts (Data Visualization)
 
+## Demo
+
+
+https://github.com/user-attachments/assets/316df9d7-7e5a-47f3-9cdd-c0bae09110ae
+
 
 ## Course Information
 
